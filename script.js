@@ -12,17 +12,24 @@ temBorrachaAtras: false
 }
 const perguntas = [
 {
-enunciado: "Pergunta1",
+enunciado: "O Volkswagen Fusca clássico é famoso por sua engenharia única. Onde fica localizado o motor do Fusca?",
 Alternativas: [
-"Alternativa1",
-"alternativa2"
+"Na traseira do veículo.",
+"Na parte central do chassi."
 ] ,
 },
 {
-enunciado: "Pergunta2",
+enunciado: "No mercado internacional, a Volkswagen lançou uma cor oficial para o Fusca clássico chamada Aubergine, que é uma variação de roxo. O que significa Aubergine em português?",
 Alternativas: [
-"Alternativa1",
-"alternativa2"
+" Berinjela.",
+" Uva."
+],
+},
+{
+enunciado: "Muitos donos de Fusca customizam seus carros com a pintura roxa do tipo "Camaleão". Qual é o efeito visual dessa tinta especial?",
+Alternativas: [
+"A pintura muda de cor dependendo do ângulo de visão e da intensidade da luz do sol, variando entre roxo, azul e verde.",
+" A pintura brilha intensamente no escuro da noite sem precisar de nenhuma luz externa."
 ],
 },
 ];
