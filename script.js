@@ -33,3 +33,40 @@ Alternativas: [
 ],
 },
 ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function  respostaSelecionada (opcaoSelecionada) { 
+    const afirmacoes= opcaoSelecionada.afirmacoes;
+    hitoriaFinal=afirmacoes;
+    atual++;
+    mostraPergunta();
+}
+function mostraResultado
